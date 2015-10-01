@@ -1,4 +1,6 @@
 # hello-world
-Just another repository
+=============
 
-I like going to the gym, listerning to rock and travelling.
+Hello People!
+
+I like going to the gym, hiking, and travelling.
