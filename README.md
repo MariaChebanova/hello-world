@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+=============
+
+Hello People!
+
+I like going to the gym, hiking, and travelling.
